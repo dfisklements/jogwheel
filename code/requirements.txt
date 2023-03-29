@@ -1,0 +1,4 @@
+adafruit_debouncer==2.0.5
+neopixel==6.3.6
+simpleio==3.0.9
+adafruit_hid==5.3.3
