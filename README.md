@@ -11,7 +11,7 @@ QT-Py RP2040 ~ $10 <https://www.adafruit.com/product/4900>
 - usb-C
 - runs circuitpython (and others)
 - can emulate an HID device
-- has built in neopixel and 
+- has built in neopixel and stemma qt connector
 
 AS-5600 magnetic encoder ~ $3
 - Cheap!
