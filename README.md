@@ -1,5 +1,8 @@
 # jogwheel
-code and plans for a desktop jogwheel based on the qtpy rp2040 and an as6500 magnetic encoder
+Code and plans for a desktop jogwheel based on the qtpy rp2040 and an as6500 magnetic encoder
+
+![outside](jogwheel1.jpg)
+![inside](jogwheel2.jpg)
 
 ## Hardware
 
