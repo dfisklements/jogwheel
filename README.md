@@ -38,7 +38,7 @@ see code folder
 
 Included are a base and a top, as well as a spinner handle
 
-the top and base will need to be printed with aligned seems, and will need to be filed down until they are pretty flat.  I did this manually with both sandpaper and with a file, both worked fine.
+The top and base will need to be printed with aligned seams, and will need to be filed down until they are pretty flat.  I did this manually with both sandpaper and with a file, both worked fine.
 
 see stl folder for models
 
